@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":wheel"><source path="F:\third\wheel-demo\wheel\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="F:\third\wheel-demo\app\src\main\assets"/><source path="F:\third\wheel-demo\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\third\wheel-demo\app\src\debug\assets"/></dataSet></merger>
